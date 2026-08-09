@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/zaidansari9243/leetcode/tree/master/0205-isomorphic-strings) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/zaidansari9243/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
