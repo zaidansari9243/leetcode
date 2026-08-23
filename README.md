@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/zaidansari9243/leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/zaidansari9243/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/zaidansari9243/leetcode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/zaidansari9243/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/zaidansari9243/leetcode/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaidansari9243/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/zaidansari9243/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaidansari9243/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
