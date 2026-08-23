@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zaidansari9243/leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/zaidansari9243/leetcode/tree/master/0205-isomorphic-strings) |
+| [0412-fizz-buzz](https://github.com/zaidansari9243/leetcode/tree/master/0412-fizz-buzz) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/zaidansari9243/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/zaidansari9243/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zaidansari9243/leetcode/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/zaidansari9243/leetcode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/zaidansari9243/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/zaidansari9243/leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/zaidansari9243/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/zaidansari9243/leetcode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/zaidansari9243/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
