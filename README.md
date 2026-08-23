@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/zaidansari9243/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/zaidansari9243/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/zaidansari9243/leetcode/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/zaidansari9243/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/zaidansari9243/leetcode/tree/master/0877-stone-game) |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/zaidansari9243/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/zaidansari9243/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
