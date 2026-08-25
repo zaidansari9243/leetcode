@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/zaidansari9243/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/zaidansari9243/leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidansari9243/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/zaidansari9243/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/zaidansari9243/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zaidansari9243/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/zaidansari9243/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/zaidansari9243/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
