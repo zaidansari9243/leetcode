@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/zaidansari9243/leetcode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/zaidansari9243/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidansari9243/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1402-reducing-dishes](https://github.com/zaidansari9243/leetcode/tree/master/1402-reducing-dishes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/zaidansari9243/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/zaidansari9243/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/zaidansari9243/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/zaidansari9243/leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/zaidansari9243/leetcode/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidansari9243/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1402-reducing-dishes](https://github.com/zaidansari9243/leetcode/tree/master/1402-reducing-dishes) |
 ## Counting Sort
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/zaidansari9243/leetcode/tree/master/0455-assign-cookies) |
 | [1323-maximum-69-number](https://github.com/zaidansari9243/leetcode/tree/master/1323-maximum-69-number) |
+| [1402-reducing-dishes](https://github.com/zaidansari9243/leetcode/tree/master/1402-reducing-dishes) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/zaidansari9243/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/zaidansari9243/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/zaidansari9243/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/zaidansari9243/leetcode/tree/master/0877-stone-game) |
+| [1402-reducing-dishes](https://github.com/zaidansari9243/leetcode/tree/master/1402-reducing-dishes) |
 ## Minimax
 |  |
 | ------- |
