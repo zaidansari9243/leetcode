@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/zaidansari9243/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/zaidansari9243/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zaidansari9243/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/zaidansari9243/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/zaidansari9243/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/zaidansari9243/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/zaidansari9243/leetcode/tree/master/0455-assign-cookies) |
 | [1323-maximum-69-number](https://github.com/zaidansari9243/leetcode/tree/master/1323-maximum-69-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/zaidansari9243/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
 | ------- |
