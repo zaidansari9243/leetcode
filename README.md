@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/zaidansari9243/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/zaidansari9243/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/zaidansari9243/leetcode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/zaidansari9243/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/zaidansari9243/leetcode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/zaidansari9243/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/zaidansari9243/leetcode/tree/master/0704-binary-search) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/zaidansari9243/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/zaidansari9243/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/zaidansari9243/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/zaidansari9243/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/zaidansari9243/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/zaidansari9243/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/zaidansari9243/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/zaidansari9243/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zaidansari9243/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/zaidansari9243/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
