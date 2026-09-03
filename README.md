@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/zaidansari9243/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/zaidansari9243/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/zaidansari9243/leetcode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/zaidansari9243/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/zaidansari9243/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/zaidansari9243/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/zaidansari9243/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/zaidansari9243/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/zaidansari9243/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zaidansari9243/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/zaidansari9243/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/zaidansari9243/leetcode/tree/master/0169-majority-element) |
