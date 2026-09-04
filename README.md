@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/zaidansari9243/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/zaidansari9243/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zaidansari9243/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/zaidansari9243/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/zaidansari9243/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/zaidansari9243/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/zaidansari9243/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3903-smallest-stable-index-i](https://github.com/zaidansari9243/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
 | ------- |
