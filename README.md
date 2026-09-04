@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/zaidansari9243/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/zaidansari9243/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/zaidansari9243/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -275,4 +276,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
