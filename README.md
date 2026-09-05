@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zaidansari9243/leetcode/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/zaidansari9243/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/zaidansari9243/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/zaidansari9243/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/zaidansari9243/leetcode/tree/master/0217-contains-duplicate) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zaidansari9243/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zaidansari9243/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/zaidansari9243/leetcode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/zaidansari9243/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/zaidansari9243/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/zaidansari9243/leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/zaidansari9243/leetcode/tree/master/0541-reverse-string-ii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/zaidansari9243/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/zaidansari9243/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
