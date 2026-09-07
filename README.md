@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/zaidansari9243/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/zaidansari9243/leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidansari9243/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zaidansari9243/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/zaidansari9243/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/zaidansari9243/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/zaidansari9243/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/zaidansari9243/leetcode/tree/master/2427-number-of-common-factors) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zaidansari9243/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/zaidansari9243/leetcode/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaidansari9243/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/zaidansari9243/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/zaidansari9243/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/zaidansari9243/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/zaidansari9243/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zaidansari9243/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/zaidansari9243/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/zaidansari9243/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zaidansari9243/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/zaidansari9243/leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidansari9243/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zaidansari9243/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Greedy
 |  |
 | ------- |
