@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/zaidansari9243/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/zaidansari9243/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zaidansari9243/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/zaidansari9243/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/zaidansari9243/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/zaidansari9243/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/zaidansari9243/leetcode/tree/master/0412-fizz-buzz) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/zaidansari9243/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/zaidansari9243/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/zaidansari9243/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/zaidansari9243/leetcode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/zaidansari9243/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/zaidansari9243/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/zaidansari9243/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/zaidansari9243/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/zaidansari9243/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/zaidansari9243/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
