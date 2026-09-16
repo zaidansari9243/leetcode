@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/zaidansari9243/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/zaidansari9243/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/zaidansari9243/leetcode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/zaidansari9243/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidansari9243/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zaidansari9243/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/zaidansari9243/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/zaidansari9243/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/zaidansari9243/leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/zaidansari9243/leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/zaidansari9243/leetcode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zaidansari9243/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/zaidansari9243/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3110-score-of-a-string](https://github.com/zaidansari9243/leetcode/tree/master/3110-score-of-a-string) |
