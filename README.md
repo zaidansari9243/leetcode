@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/zaidansari9243/leetcode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/zaidansari9243/leetcode/tree/master/2652-sum-multiples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/zaidansari9243/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/zaidansari9243/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zaidansari9243/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/zaidansari9243/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zaidansari9243/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zaidansari9243/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/zaidansari9243/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/zaidansari9243/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/zaidansari9243/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/zaidansari9243/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zaidansari9243/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/zaidansari9243/leetcode/tree/master/3903-smallest-stable-index-i) |
