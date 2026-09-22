@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/zaidansari9243/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/zaidansari9243/leetcode/tree/master/0771-jewels-and-stones) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zaidansari9243/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2000-reverse-prefix-of-word](https://github.com/zaidansari9243/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zaidansari9243/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/zaidansari9243/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2942-find-words-containing-character](https://github.com/zaidansari9243/leetcode/tree/master/2942-find-words-containing-character) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/zaidansari9243/leetcode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/zaidansari9243/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zaidansari9243/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Quicksort
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/zaidansari9243/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Matrix
 |  |
 | ------- |
