@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zaidansari9243/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/zaidansari9243/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/zaidansari9243/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/zaidansari9243/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/zaidansari9243/leetcode/tree/master/0205-isomorphic-strings) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/zaidansari9243/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/zaidansari9243/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Matrix
@@ -409,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/zaidansari9243/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/zaidansari9243/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
