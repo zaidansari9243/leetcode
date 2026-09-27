@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/zaidansari9243/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/zaidansari9243/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/zaidansari9243/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0622-design-circular-queue](https://github.com/zaidansari9243/leetcode/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/zaidansari9243/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/zaidansari9243/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/zaidansari9243/leetcode/tree/master/0724-find-pivot-index) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/zaidansari9243/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/zaidansari9243/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/zaidansari9243/leetcode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/zaidansari9243/leetcode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -444,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/zaidansari9243/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/zaidansari9243/leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
