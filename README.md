@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/zaidansari9243/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/zaidansari9243/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/zaidansari9243/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/zaidansari9243/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/zaidansari9243/leetcode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/zaidansari9243/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/zaidansari9243/leetcode/tree/master/3701-compute-alternating-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/zaidansari9243/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
 |  |
 | ------- |
