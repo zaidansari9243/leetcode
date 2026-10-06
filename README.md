@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/zaidansari9243/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/zaidansari9243/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidansari9243/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/zaidansari9243/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1402-reducing-dishes](https://github.com/zaidansari9243/leetcode/tree/master/1402-reducing-dishes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/zaidansari9243/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/zaidansari9243/leetcode/tree/master/1470-shuffle-the-array) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/zaidansari9243/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/zaidansari9243/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1389-create-target-array-in-the-given-order](https://github.com/zaidansari9243/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/zaidansari9243/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/zaidansari9243/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/zaidansari9243/leetcode/tree/master/1920-build-array-from-permutation) |
