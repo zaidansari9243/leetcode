@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/zaidansari9243/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/zaidansari9243/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zaidansari9243/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1534-count-good-triplets](https://github.com/zaidansari9243/leetcode/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/zaidansari9243/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/zaidansari9243/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/zaidansari9243/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/zaidansari9243/leetcode/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/zaidansari9243/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/zaidansari9243/leetcode/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
