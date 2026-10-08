@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/zaidansari9243/leetcode/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/zaidansari9243/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidansari9243/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/zaidansari9243/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/zaidansari9243/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zaidansari9243/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/zaidansari9243/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/zaidansari9243/leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/zaidansari9243/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zaidansari9243/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/zaidansari9243/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zaidansari9243/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/zaidansari9243/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zaidansari9243/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/zaidansari9243/leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zaidansari9243/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/zaidansari9243/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zaidansari9243/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Greedy
 |  |
