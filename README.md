@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/zaidansari9243/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/zaidansari9243/leetcode/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/zaidansari9243/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/zaidansari9243/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/zaidansari9243/leetcode/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/zaidansari9243/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## DP on Trees
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/zaidansari9243/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Indexed Tree
 |  |
