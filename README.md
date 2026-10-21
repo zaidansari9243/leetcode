@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/zaidansari9243/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/zaidansari9243/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/zaidansari9243/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/zaidansari9243/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/zaidansari9243/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zaidansari9243/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/zaidansari9243/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/zaidansari9243/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/zaidansari9243/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/zaidansari9243/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zaidansari9243/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/zaidansari9243/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/zaidansari9243/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/zaidansari9243/leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/zaidansari9243/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/zaidansari9243/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zaidansari9243/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
