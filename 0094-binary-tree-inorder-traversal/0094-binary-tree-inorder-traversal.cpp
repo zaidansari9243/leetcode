@@ -11,16 +11,32 @@
  */
 class Solution {
 public:
-
-    void intraversal(TreeNode* root,vector<int> &ans){
-        if(root == NULL) return;
-        intraversal(root->left,ans);
-        ans.push_back(root->val);
-        intraversal(root->right,ans);
-    }
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        intraversal(root,ans);
-        return ans;
+        vector<int> v;
+        TreeNode* curr = root;
+        
+        while(curr){
+            if(curr->left){
+                TreeNode* pred = curr->left;
+                while(pred->right && pred->right!=curr){
+                    pred = pred->right;
+                }
+                if(pred->right==NULL){ // link
+                    pred->right = curr;
+                    curr = curr->left;
+                }
+                else //(pred->right==curr) : unlink & visit
+                   { pred->right = NULL;
+                    v.push_back(curr->val);
+                    curr = curr->right;}
+                }
+        
+           else { //visit
+                v.push_back(curr->val);
+                curr = curr->right;
+                }
+   
+    }
+        return v;
     }
 };
