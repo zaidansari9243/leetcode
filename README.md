@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/zaidansari9243/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/zaidansari9243/leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/zaidansari9243/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/zaidansari9243/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/zaidansari9243/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/zaidansari9243/leetcode/tree/master/0724-find-pivot-index) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/zaidansari9243/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/zaidansari9243/leetcode/tree/master/0169-majority-element) |
+| [0654-maximum-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/zaidansari9243/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidansari9243/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/zaidansari9243/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/zaidansari9243/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/zaidansari9243/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/zaidansari9243/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/zaidansari9243/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0654-maximum-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/zaidansari9243/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/zaidansari9243/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Range Minimum/Maximum Query
@@ -564,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/zaidansari9243/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/zaidansari9243/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -639,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/zaidansari9243/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/zaidansari9243/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/zaidansari9243/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -706,4 +712,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zaidansari9243/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/zaidansari9243/leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
