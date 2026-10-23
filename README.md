@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/zaidansari9243/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/zaidansari9243/leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/zaidansari9243/leetcode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/zaidansari9243/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/zaidansari9243/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/zaidansari9243/leetcode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/zaidansari9243/leetcode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/zaidansari9243/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/zaidansari9243/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/zaidansari9243/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/zaidansari9243/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
